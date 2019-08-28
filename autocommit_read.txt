@@ -1,0 +1,2 @@
+place the file in the folder mentioned as below and make it executable ready, so it would have access through out your system.
+/usr/local/bin
